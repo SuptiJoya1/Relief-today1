@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.relief-header{
+    background-image: url(image/OGB_116168_Mozambique_Cyclone\ Idai.jpg);
+    background-repeat: no-repeat;
+    background-size: 120%;  
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 25%;
+}
+#header{
+    color: white;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    text-align: center;
+    
+    
+}
+#donate{
+    color: black;
+}
+.extreme{
+    margin: 30%;
+    font-size: 20px;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.link{
+    background-image: linear-gradient(orange ,tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 15px 40px;
+    margin-top: 50px;
+    margin-left: 40%;
+    
+    }
+.donate-plan{
+    display: flex;
+}
+#food{
+    margin-left: 40px;
+}
+.food-for-family{
+    box-shadow: 20px 50px 30px gray;
+    width: 40%;
+    margin-left: 80px;
+    margin-right: 5%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    padding: 5%;
+    padding-bottom: 2%;
+
+}
+.lives-depend{
+    padding: 80px;
+    width: 50%;
+}
+.color{
+    color: black;
+    text-align: left;
+    font-size: 40px;
+}
+#img{
+    width: 95%;
+}
+#updates{
+    color: black;
+    text-align: center;
+    margin-left: 70%;
+    margin-right: 0;
+    font-size: 40px;
+}
+#amet{
+
+    color: black;
+    text-align: center;
+    margin-left: 60%;
+
+}
+footer p{
+    text-align: center;
+    color: bisque;
+    font-size: 30px;
+    padding: 20px;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+}
